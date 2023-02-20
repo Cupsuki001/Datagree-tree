@@ -1,0 +1,17 @@
+C:\Users\TheDeath\source\repos\practica\practica\bin\Debug\net6.0-windows\practica.exe
+C:\Users\TheDeath\source\repos\practica\practica\bin\Debug\net6.0-windows\practica.deps.json
+C:\Users\TheDeath\source\repos\practica\practica\bin\Debug\net6.0-windows\practica.runtimeconfig.json
+C:\Users\TheDeath\source\repos\practica\practica\bin\Debug\net6.0-windows\practica.dll
+C:\Users\TheDeath\source\repos\practica\practica\bin\Debug\net6.0-windows\practica.pdb
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.csproj.AssemblyReference.cache
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.Form1.resources
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.csproj.GenerateResource.cache
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.AssemblyInfoInputs.cache
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.AssemblyInfo.cs
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.csproj.CoreCompileInputs.cache
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.dll
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\refint\practica.dll
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.pdb
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\practica.genruntimeconfig.cache
+C:\Users\TheDeath\source\repos\practica\practica\obj\Debug\net6.0-windows\ref\practica.dll
