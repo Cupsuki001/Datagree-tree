@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TheDeath\\source\\repos\\practica\\practica\\practica.csproj",
+      "projectUniqueName": "C:\\Users\\TheDeath\\Downloads\\Datagree-tree-main\\Datagree-tree-main\\practica\\practica.csproj",
       "projectName": "practica",
-      "projectPath": "C:\\Users\\TheDeath\\source\\repos\\practica\\practica\\practica.csproj",
+      "projectPath": "C:\\Users\\TheDeath\\Downloads\\Datagree-tree-main\\Datagree-tree-main\\practica\\practica.csproj",
       "packagesPath": "C:\\Users\\TheDeath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TheDeath\\source\\repos\\practica\\practica\\obj\\",
+      "outputPath": "C:\\Users\\TheDeath\\Downloads\\Datagree-tree-main\\Datagree-tree-main\\practica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

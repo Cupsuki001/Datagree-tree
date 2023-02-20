@@ -43,17 +43,44 @@ namespace practica
 
             dataGridView1.Rows[n].Cells[0].Value = TXBnombre.Text;
             dataGridView1.Rows[n].Cells[1].Value = MASKEDinssnumero.Text;
-            dataGridView1.Rows[n].Cells[2].Value = MASKEDingresomensual.Text;
-            dataGridView1.Rows[n].Cells[3].Value = treeView1.SelectedNode.Text;
+            dataGridView1.Rows[n].Cells[2].Value = treeView1.SelectedNode.Text;
+            dataGridView1.Rows[n].Cells[3].Value =MASKEDingresomensual.Text;
 
-            if (treeView1.SelectedNode.Text.Equals("INNS LABORAL")) 
+            if (treeView1.SelectedNode.Text.Equals("INNS LABORAL"))
             {
-                double tot , desc;
+                double tot, desc ;
 
                 desc = men * 0.07;
                 tot = men - desc;
 
-                dataGridView1.Rows[n].Cells[4].Value = tot;
+                dataGridView1.Rows[n].Cells[4].Value = desc;
+                dataGridView1.Rows[n].Cells[5].Value = tot;
+            }
+            else if (treeView1.SelectedNode.Text.Equals("INNS PATRONAL")) 
+            {
+                double tot, desc;
+
+                desc = men * 0.22;
+                tot = men - desc;
+
+
+                dataGridView1.Rows[n].Cells[4].Value = desc;
+                dataGridView1.Rows[n].Cells[5].Value = tot;
+            }
+            else if (treeView1.SelectedNode.Text.Equals("IR")) 
+            {
+                double tot, desc;
+
+                desc = men * 0.11;
+                tot = men - desc;
+
+
+                dataGridView1.Rows[n].Cells[4].Value = desc;
+                dataGridView1.Rows[n].Cells[5].Value = tot;
+            }
+            else 
+            {
+                MessageBox.Show("Ingrese una deduccion");
             }
         }
     }
